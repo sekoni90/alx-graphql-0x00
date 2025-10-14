@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "3",
+          "name": "Armagheadon",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "id": "4",
+          "name": "Arthricia",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        }
+    ]
+    }
+    }
+}

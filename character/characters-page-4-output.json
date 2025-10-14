@@ -1,0 +1,20 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "7",
+          "name": "Beth Sanchez",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        },
+        {
+          "id": "8",
+          "name": "Beth's Mytholog",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+        }
+    ]
+    }
+    }
+}
